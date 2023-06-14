@@ -1,4 +1,4 @@
-![FPWL](afpwl-logo.png)
+![FPWL](fpwl-logo.png)
 
 # FPLW
 Ferramentas Pentest Windows_Linux
